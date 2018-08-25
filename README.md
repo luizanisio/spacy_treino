@@ -1,1 +1,3 @@
-spacy_treino
+Alguns códigos, dicas e exemplos para usar o spacy na geração de modelos para extração de entidades, dependências e classificação de textos.
+
+Em elaboração ....
